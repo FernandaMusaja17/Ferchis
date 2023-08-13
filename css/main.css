@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Handjet&family=Tektur&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    
+    
+}
+.menu-container{
+    position: relative;
+    left: 30px;
+}
+body{
+    font-family:'Tektur', cursive;
+    
+    
+}
+h1{
+    color: rgb(90, 15, 151);
+    align-items: center;
+    display: flex;
+    font-size: 100px;
+    position: relative;
+    left: 500px;
+    top: 50px;
+}
+.img-firs{
+    position: relative;
+    left: 50px;
+}
+.image-container{
+    display: flex;
+    align-items: center;
+    width: 600px;
+    height: 500px;
+    border: 10px solid green;
+    filter: contrast(200%);
+}
+h2{
+    font-size: 50px;
+    position: relative;
+    left: 70px;
+    top: 50px;
+    bottom: 20px;
+}
+.img-secon{
+    position: relative;
+    left: 80px;
+    top: 80px;
+    height: 500px;
+  
+    
+}
+.video-container{
+    position: relative;
+    left: 500px;
+}
+.map-container{
+    position: relative;
+    left: 400px;
+}
